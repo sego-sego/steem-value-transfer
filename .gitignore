@@ -1,0 +1,16 @@
+# raw SteemOps archives and derived tables are not stored in git
+data/*
+!data/README.md
+*.zip
+*.csv
+*.csv.done
+validation_out/
+results*/
+__pycache__/
+.env
+*.jsonl
+*.log
+panel_*/
+figures/*.pdf
+figures/*.eps
+figures/*.png

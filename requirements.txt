@@ -1,0 +1,6 @@
+# Data assembly and the API download use the Python standard library only.
+# Estimation scripts need numpy, pandas, scipy; figures need matplotlib.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7

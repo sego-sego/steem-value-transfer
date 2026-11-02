@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "steem-value-transfer: measured couplings of a material-information network in Steem"
+authors:
+  - family-names: Pisarchik
+    given-names: Alexander N.
+    affiliation: "Center for Biomedical Technology, Universidad Politécnica de Madrid"
+  - family-names: Hramov
+    given-names: Alexander E.
+    affiliation: "Research Institute of Applied Artificial Intelligence and Digital Solutions, Plekhanov Russian University of Economics"
+license: MIT
+version: "1.0.0"
+date-released: 2026-11-02
+# doi: 10.5281/zenodo.XXXXXXX          # fill in after the Zenodo release
+# repository-code: https://github.com/sego-sego/steem-value-transfer
+preferred-citation:
+  type: article
+  title: "Copying, capacity and a market for votes: the measured couplings of a material-information network"
+  authors:
+    - family-names: Pisarchik
+      given-names: Alexander N.
+    - family-names: Hramov
+      given-names: Alexander E.
+  year: 2026
+  notes: "in preparation"
